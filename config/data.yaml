@@ -1,0 +1,7 @@
+
+train: /kaggle/working/dataset_split/train/images
+val: /kaggle/working/dataset_split/val/images
+test: /kaggle/working/dataset_split/test/images
+
+nc: 4
+names: ['speedlimit', 'trafficlight', 'crosswalk', 'stop']
