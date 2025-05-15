@@ -15,5 +15,8 @@ This project detects traffic signs (Speed Limit, Traffic Light, Crosswalk, Stop)
 ## Usage
 Run the notebook in Kaggle with the dataset. Load `best.pt` for inference.
 
+## HuggingFace Space
+https://huggingface.co/spaces/Abdullah104/Traffic-Sign-Detection-YOLOv8
+
 ## License
 MIT License
